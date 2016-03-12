@@ -1,0 +1,8 @@
+A B C D E
+1 1 85 France 5
+1 5 94 Belgique 12
+2 2 92 Allemagne 2
+3 2 98 Allemagne 2
+4 3 98 Suisse 2
+5 1 75 France 5
+6 5 88 Belgique 12

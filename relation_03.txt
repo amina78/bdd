@@ -1,0 +1,10 @@
+NumV NumP NumAV Dep_H Dep_V Arr_H Arr_V
+1002 3 104 14:00 Marseille 14:20 Nice
+1003 4 105 1:00 Paris 2:05 Nice
+1004 2 101 00:00 Paris 13:00 Marseille
+1005 3 101 00:00 Marseille 12:45 Lyon
+1006 4 107 09:00 Nice 09:20 Marseille
+1007 5 101 10:00 Paris 10:45 Lyon
+1008 6 101 19:00 Lyon 19:45 Marseille
+1009 7 101 16:00 Paris 17:00 Marseille
+1010 2 109 08:00 Nice 09:00 Paris
